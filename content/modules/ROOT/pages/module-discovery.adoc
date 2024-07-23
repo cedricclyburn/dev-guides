@@ -40,6 +40,10 @@ With Podman AI Lab, we're provided a curated catalog of open-source recipes, rea
 * *Playground Environments*: Interactive spaces to test and experiment with different models, allowing developers to specify model parameters and observe results.
 * *Model Serving*: Capability to run local inference servers for AI models, providing an OpenAI-compatible endpoint for application integration.
 
+=== 1.3. Accessing the Developer Environment
+
+To get started with the exercises below, you'll need to access your virtual environment though a noVNC client, using [this Red Hat Enterprise Linux Virtual Machine].
+
 == 2. Exploring the Podman AI Lab Interface
 
 Your developer environment includes Podman Desktop pre-installed with the AI Lab extension, allowing you to instantly get started exploring and working with Generative AI in your application development workflow. From the extensions sidebar of Podman Desktop, navigate to the AI Lab icon.
